@@ -1,0 +1,30 @@
+.signup-container {
+    background-color: blueviolet;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+    
+  }
+  
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input {
+    text-align: center;
+    padding: 8px;
+    width: 90%;
+    margin-left: 1%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  
+ 
+  
